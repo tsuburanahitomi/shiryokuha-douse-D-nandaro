@@ -1,11 +1,13 @@
-.home span{font-color:red;
+.home span{font-color:lime;
 }
-.home{width:900px;
+.home{
+      background-color:#6600CC;
+      width:900px;
 }
-.title span{font-color:blue;  
+.title span{font-color:red;  
 }
-.title{background-color:red;
-      height:800px;
+.title{background-color:#00FFFF;
+      height:100px;
 }
 .footer{height:1600px;
 }
