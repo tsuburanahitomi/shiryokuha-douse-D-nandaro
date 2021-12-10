@@ -1,6 +1,7 @@
 .home span{font-color:lime;
 }
 .home{
+      font-color:white;
       background-color:#6600CC;
       width:900px;
 }
@@ -8,7 +9,7 @@
 }
 .title{background-color:#00FFFF;
       height:80px;
-      width:600px;
+      width:900px;
 }
 .footer{height:1600px;
 }
