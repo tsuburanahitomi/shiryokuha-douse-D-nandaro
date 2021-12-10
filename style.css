@@ -1,1 +1,11 @@
-
+.home span{font-color:red;
+}
+.home{width:900px;
+}
+.title span{font-color:blue;  
+}
+.title{background-color:red;
+      height:800px;
+}
+.footer{height:1600px;
+}
