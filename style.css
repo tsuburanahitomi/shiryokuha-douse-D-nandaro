@@ -7,7 +7,8 @@
 .title span{font-color:red;  
 }
 .title{background-color:#00FFFF;
-      height:100px;
+      height:80px;
+      width:600px;
 }
 .footer{height:1600px;
 }
