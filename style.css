@@ -1,11 +1,11 @@
-.home span{font-color:lime;
+.home span{color:lime;
 }
 .home{
-      font-color:#FFFFFF;
+      color:#FFFFFF;
       background-color:#6600CC;
       width:900px;
 }
-.title span{font-color:red;  
+.title span{color:red;  
 }
 .title{background-color:#00FFFF;
       height:40px;
