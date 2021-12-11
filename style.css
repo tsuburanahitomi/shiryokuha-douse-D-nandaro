@@ -4,7 +4,7 @@
 .home{
       color:#FFFFFF;
       background-color:#6600CC;
-      width:900px;
+      width:910px;
       font-family: "Yu Gothic";
 }
 .home h1{
@@ -12,12 +12,12 @@
 }
 .kojiseigo{
       background-color:#99CC33;
-      width:900px;
+      width:910px;
       font-family: "Yu Gothic";
 }
 .kojiseigo h3{
       background-color:#FFFFFF;
-      width:300px;
+      width:250px;
       font-family: "Yu Gothic";
 }
 .title span{
@@ -26,19 +26,18 @@ font-family: "Yu Gothic";
 }
 .title{background-color:#00FFFF;
       height:40px;
-      width:900px;
+      width:910px;
       font-family: "Yu Gothic";
 }
 .footer{height:35px;
-        width: 900px;
+        width: 910px;
         font-family: "Yu Gothic";
 }
 .osirase p{
      color:#f15922;
 }
 .news-list{
-  background-color:#87888e;
+  background-color:#f5a500;
   float:right;
-  width:900px;
-  font-family: "Yu Gothic";
+  width:910px;
 }
