@@ -1,24 +1,43 @@
 .home span{color:lime;
+          font-family: "Yu Gothic";
 }
 .home{
       color:#FFFFFF;
       background-color:#6600CC;
       width:900px;
+      font-family: "Yu Gothic";
+}
+.home h1{
+      color:#f15922;
 }
 .kojiseigo{
       background-color:#99CC33;
       width:900px;
+      font-family: "Yu Gothic";
 }
 .kojiseigo h3{
       background-color:#FFFFFF;
-      width:300px;
+      width:250px;
+      font-family: "Yu Gothic";
 }
 .title span{
 color:red;
+font-family: "Yu Gothic";
 }
 .title{background-color:#00FFFF;
       height:40px;
       width:900px;
+      font-family: "Yu Gothic";
 }
-.footer{height:1600px;
+.footer{height:35px;
+        width: 900px;
+        font-family: "Yu Gothic";
+}
+.osirase p{
+     color:#fdbf64;
+}
+.news-list{
+  background-color:#f5a500;
+  float:left;
+  width:900px;
 }
