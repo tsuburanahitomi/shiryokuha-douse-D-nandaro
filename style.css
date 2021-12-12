@@ -59,23 +59,45 @@ font-family: "Yu Gothic";
   font-family: "Yu Gothic";
 }
 .wa{
+  padding-top:50px;
+  padding-left:300px;
   float:right;
   background-color:#4a551e;
-  width:20%;
+  width:5%;
   font-family:"Courier New";
-  height:219px;
+  height:170px;
+}
+.wa h2{
+  width:68px;
+  padding:5px;
+  background-color:white;
 }
 .bi{
+   padding-top:50px;
    float:right;
    background-color:#738851;
-   width:10%;
+   width:5%;
    font-family:"Courier New";
-   height:219px;
+   height:170px;
+}
+.bi h2{
+      padding: 5px;
+      background-color:#663300;
 }
 .sabi{
+  padding-top:50px;
+  padding-left:10px;
   float:right;
   background-color:#d3c494;
-  width:10%;
+  width:15%;
   font-family:"Courier New";
-  height:219px;
+  height:170px;
+}
+.sabi h2{
+    width:80px;
+    padding-left: 10px;
+    padding-right:5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: #b0941e;
 }
