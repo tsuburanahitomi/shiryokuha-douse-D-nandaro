@@ -27,7 +27,8 @@ font-family: "Yu Gothic";
 }
 .title{background-color:#00a096;
       height:65px;
-
+      padding-top:10px;
+      padding-bottom: 10px;
       font-family: "Yu Gothic";
 }
 .twitter{
@@ -53,7 +54,7 @@ font-family: "Yu Gothic";
   background-color:#dddddd;
 }
 .news-list{
-  background-color:#82aaaa;
+  background-color:#888888;
   float:right;
   width:40%;
   font-family: "Yu Gothic";
@@ -100,4 +101,10 @@ font-family: "Yu Gothic";
     padding-top: 5px;
     padding-bottom: 5px;
     background-color: #b0941e;
+}
+.profile{
+    background-color:#7b6b7f;
+}
+.profile h3{
+    padding-top:10px;
 }
