@@ -1,18 +1,19 @@
-.home span{color:lime;
+.home span{color:red;
+          font-size: 22px;
           font-family: "Yu Gothic";
 }
 .home{
-      color:#FFFFFF;
-      background-color:#6600CC;
-      width:910px;
+      color:#000000;
+      background-color:#b9d0b1;
+      width:60%;
       font-family: "Yu Gothic";
 }
 .home h1{
       color:#f15922;
 }
 .kojiseigo{
-      background-color:#99CC33;
-      width:910px;
+      background-color:#738851;
+      width:60%;
       font-family: "Yu Gothic";
 }
 .kojiseigo h3{
@@ -21,23 +22,60 @@
       font-family: "Yu Gothic";
 }
 .title span{
-color:red;
+color:#d3c496;
 font-family: "Yu Gothic";
 }
-.title{background-color:#00FFFF;
-      height:40px;
-      width:910px;
+.title{background-color:#00a096;
+      height:65px;
+
       font-family: "Yu Gothic";
 }
-.footer{height:35px;
-        width: 910px;
+.twitter{
+        color:white;
+  height:35px;
+        width: 60%;
         font-family: "Yu Gothic";
+        background-color: #00a9ff;
+}
+.channel{
+        color:white;
+  height:35px;
+          width:60%;
+          font-family: "Yu Gothic";
+          background-color: #cc0000;
+
 }
 .osirase p{
      color:#f15922;
 }
+.osirase{
+  width:60%;
+  background-color:#dddddd;
+}
 .news-list{
-  background-color:#f5a500;
+  background-color:#82aaaa;
   float:right;
-  width:910px;
+  width:40%;
+  font-family: "Yu Gothic";
+}
+.wa{
+  float:right;
+  background-color:#4a551e;
+  width:20%;
+  font-family:"Courier New";
+  height:219px;
+}
+.bi{
+   float:right;
+   background-color:#738851;
+   width:10%;
+   font-family:"Courier New";
+   height:219px;
+}
+.sabi{
+  float:right;
+  background-color:#d3c494;
+  width:10%;
+  font-family:"Courier New";
+  height:219px;
 }
